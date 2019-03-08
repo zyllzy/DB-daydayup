@@ -1,5 +1,6 @@
 # 由Trackio拷贝
-一个带播放列表的javaFx播放器
+一个带播放列表的javaFx播放器  
+我们想实现一个用户播放器，类似网易云音乐，这个项目很考验数据库的设计  
 
 ![Alt "Trackio Audio Player"](http://img.imgur.com/rECNn8j.png "Trackio Audio Player")
 
