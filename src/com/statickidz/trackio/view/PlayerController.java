@@ -172,6 +172,7 @@ public class PlayerController {
      */
     @FXML
     private void handleNextTrack() {
+
         if(nextTrack != null) playTrack(nextTrack);
     }
     
@@ -181,6 +182,7 @@ public class PlayerController {
      */
     @FXML
     private void handlePrevTrack() {
+
         if(prevTrack != null) playTrack(prevTrack);
     }
 
