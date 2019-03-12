@@ -1,7 +1,3 @@
-# 播放器
-
-2019-3-12 UPDATE 
-
 ![Alt "Trackio Audio Player"](http://img.imgur.com/rECNn8j.png "Trackio Audio Player")
 
 代码说明  ：
