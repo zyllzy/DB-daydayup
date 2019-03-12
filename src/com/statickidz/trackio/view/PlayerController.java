@@ -252,10 +252,9 @@ public class PlayerController {
     private void handleCredits() {
         Alert alert = new Alert(AlertType.INFORMATION);
         alert.initStyle(StageStyle.UTILITY);
-        alert.setTitle("Créditos");
+        alert.setTitle("产品信息");
         alert.setHeaderText(null);
-        alert.setContentText("Adrián Barrio Andrés\r\nhttps://statickidz.com/");
-
+        alert.setContentText("哇哈哈哈哈哈哈哈哈哈哈");
         alert.showAndWait();
     }
 
